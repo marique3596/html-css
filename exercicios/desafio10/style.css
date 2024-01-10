@@ -1,0 +1,158 @@
+@charset "UTF-8";
+
+* {
+    margin: 0px;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: aquamarine;
+}
+
+main {
+    margin: 0px 300px 0px 300px;
+    background-color: antiquewhite;
+    box-shadow: 0px 5px 5px 5px rgb(218, 203, 183);
+}
+
+div > section {
+    text-align: left;
+}
+
+div > section p {
+    margin: 0px 50px 0px 50px;
+    text-indent: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div#backdegrade {
+    background-image: linear-gradient(to bottom, #BF9D7E, #A6775B);
+}
+
+h1#primeirotitulo {
+    text-align: center;
+    margin: 0px 0px 5px 0px;
+    padding: 50px 0px 0px 0px;
+}
+
+div#intro {
+    text-align: center;
+    margin: 20px 0px 50px 0px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+}
+
+div#links {
+    background-color: #A6775B;
+    padding: 10px;
+}
+
+div#links a {
+    text-decoration: none;
+    color: white;
+    margin: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+div > #historiamascote h1 {
+    margin: 0px 250px 0px 250px;
+    padding: 20px;
+    text-align: center;
+}
+
+.primeiraversao {
+    margin: 20px 20px 20px 30px;
+    background-image: linear-gradient(to left, #FAEBD7, #a79379);
+    padding: 10px;
+}
+
+#floresta img{
+    height: 400px;
+    width: 900px;
+    margin: 10px;
+}
+
+section > #asidefloresta {
+    margin: 10px;
+} 
+
+.textonormal {
+    margin: 0px 50px 0px 50px;
+    text-indent: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.textonormal2 {
+    margin: 0px 50px 0px 50px;
+    text-indent: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px 0px 35px 0px;
+}
+
+.imagens {
+    height: 400px;
+    width: 900px;
+    margin: 10px;
+}
+
+#idvideo {
+    align-content: center;
+}
+
+.aoba {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 70px 0px 70px 0px;
+}
+
+#backyt {
+    background-color: burlywood;
+}
+
+footer {
+    margin: 0px 300px 0px 300px;
+    background-color: antiquewhite;
+    box-shadow: 0px 5px 5px 5px rgb(218, 203, 183);
+}
+
+#rodapeize {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 3px;
+    width: 50em;
+    border-radius: 1%;
+    background-color: darksalmon;
+}
+
+#textofooter {
+    text-align: center;
+}
+
+ul > li.linha1 {
+    color: red;
+}
+
+div > li.linha2 {
+    color: red;
+}
+
+.linha22, .linha11 {
+    float: right;
+    width: 50%;
+    height: 125px;
+    background-color: #ccc;
+    margin: 10px 0px 10px 0px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+
+
+/*height: 100px;
+width: 100px;
+margin: 10px;
+background-color: white;
+border-radius: 25px;
+display: inline-block;*/
