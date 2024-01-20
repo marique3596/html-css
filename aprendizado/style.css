@@ -1,0 +1,15 @@
+.a {
+    display: flex;
+}
+
+div.b {
+    background-color: red;
+    width: 50vw;
+    height: 50vh;
+}
+
+div.c {
+    background-color: blue;
+    width: 50vw;
+    height: 50vh;
+}
